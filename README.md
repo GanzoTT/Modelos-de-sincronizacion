@@ -56,8 +56,7 @@ Observa la **velocidad de crecimiento de \( r(t) \)** y su **valor final**, ya q
 ###  **Diferencias prácticas observables**
 
 - **Umbral de sincronización:**  
-  Ambos muestran transiciones, pero **Winfree** puede sincronizar más fácilmente dependiendo de las funciones \( P/Q \), ya que el acoplamiento entra multiplicativamente por la PRC.  
-  La dinámica puede ser más abrupta o no lineal.
+  Ambos muestran transiciones, pero **Winfree** puede sincronizar más fácilmente dependiendo de las funciones \( P/Q \), ya que el acoplamiento entra multiplicativamente por la PRC. La dinámica puede ser más abrupta o no lineal.
 
 - **Fases y agrupamiento:**  
   - **Kuramoto:** sincronía por acoplamiento *pairwise* (seno de diferencias de fase).  
