@@ -117,8 +117,7 @@ Si los generadores se desincronizan, aparecen corrientes incontroladas, fluctuac
 
 ### **Por qué Kuramoto y Winfree son válidos**
 
-Aunque las redes eléctricas reales incluyen **inercia, controladores y retardos**,  
-los modelos de osciladores acoplados capturan el **mecanismo esencial del acoplamiento de fase**, lo que permite:
+Aunque las redes eléctricas reales más complejas incluyen **(inercia, controladores y retardos)**, modelos de osciladores acoplados capturan el mecanismo esencial de acoplamiento de fase y permiten análisis teórico y numérico eficiente, lo que permite:
 
 - Análisis teórico eficiente.  
 - Simulación numérica rápida.  
