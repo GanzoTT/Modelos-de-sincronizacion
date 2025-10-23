@@ -67,7 +67,7 @@ Observa la **velocidad de crecimiento de \( r(t) \)** y su **valor final**, ya q
 
 ---
 
-###  ** Gráficos **
+###  **Gráficos**
 
 | Tipo de gráfico | Qué representa | Qué esperar |
 |:-----------------|:----------------|:-------------|
