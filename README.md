@@ -48,7 +48,7 @@ Observa la **velocidad de crecimiento de r(t)** y su **valor final**, ya que ind
 
 | Modelo | Descripción |
 |:--------|:-------------|
-| **Kuramoto** | Acoplamiento emparejado y sinusoidal entre pares. Modelo simple y analíticamente tratable. Define un parámetro de orden natural \( r(t) \). |
+| **Kuramoto** | Acoplamiento emparejado y sinusoidal entre pares. Modelo simple y analíticamente tratable. Define un parámetro de orden natural r(t). |
 | **Winfree** | Acoplamiento global mediado por señales/pulsos **P(θ)** y la sensibilidad de cada oscilador **Q(θ)**. Modela interacción por impulsos y respuesta de fase (PRC). |
 
 ---
