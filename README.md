@@ -16,7 +16,7 @@ Ambos son paradigmas en el estudio del acoplamiento de osciladores y permiten co
 - Valores cercanos a **1 → alta sincronía** (fases agrupadas).  
 - Valores cercanos a **0 → fases distribuidas aleatoriamente**.  
 
-Observa la **velocidad de crecimiento de \( r(t) \)** y su **valor final**, ya que indican cuán rápido y cuánto sincroniza el conjunto.
+Observa la **velocidad de crecimiento de ( r(t) )** y su **valor final**, ya que indican cuán rápido y cuánto sincroniza el conjunto.
 
 ---
 
