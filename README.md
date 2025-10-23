@@ -1,3 +1,5 @@
+*(Franco Comas, Andres Castro, Juan Hurtado)*  
+---
 # Modelos de Sincronización: Kuramoto y Winfree
 
 Este repositorio explora y analiza dos modelos fundamentales de sincronización en sistemas complejos:  
