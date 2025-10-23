@@ -98,17 +98,7 @@ Cada generador tiene una **fase** y **frecuencia natural** que ajusta con contro
 
 ### **Por qué la sincronización importa**
 
-Si los generadores se desincronizan:
-- Aparecen **corrientes incontroladas**.  
-- Fluctúa la **frecuencia global**.  
-- Se eleva el riesgo de **apagones en cascada**.
-
-El comportamiento colectivo de múltiples generadores y cargas puede estudiarse con modelos de **osciladores acoplados** (Kuramoto modificado y variantes de Winfree).
-
-Estos permiten analizar:
-- Estabilidad de fase.  
-- Umbrales de pérdida de sincronía.  
-- Estrategias de control descentralizado.
+Si los generadores se desincronizan, aparecen corrientes incontroladas, fluctuaciones de frecuencia y riesgo de apagones en cascada. El comportamiento colectivo de múltiples generadores y cargas se puede estudiar con modelos simplificados de osciladores acoplados (Kuramoto modificado y variantes de Winfree) para entender estabilidad, umbrales de fallo, y estrategias de control.
 
 ---
 
