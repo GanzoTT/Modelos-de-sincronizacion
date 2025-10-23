@@ -10,7 +10,6 @@ Original file is located at
 # ===========================================
 # Simulación y comparación de sincronización:
 #  Modelos de Kuramoto y Winfree
-#  (versión optimizada para Google Colab)
 # ===========================================
 
 import numpy as np
@@ -108,7 +107,7 @@ thetas_win, r_win = simulate_winfree(theta0, omega, K_win, dt, steps)
 # VISUALIZACIONES PRINCIPALES
 # ----------------------------
 
-# 1️⃣ r(t) comparativo
+# r(t) comparativo
 plt.figure(figsize=(9,4))
 plt.plot(t, r_kur, label='Kuramoto')
 plt.plot(t, r_win, label='Winfree', linestyle='--')
@@ -119,7 +118,7 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
-# 2️⃣ Raster (muestra de osciladores)
+# Raster (muestra de osciladores)
 sample_idx = np.random.choice(range(N), size=25, replace=False)
 plt.figure(figsize=(10,5))
 for i in sample_idx:
@@ -135,7 +134,7 @@ plt.xlabel("Tiempo"); plt.ylabel("Fase (rad)")
 plt.title("Raster (muestra) — Winfree")
 plt.ylim(0, 2*np.pi); plt.show()
 
-# 3️⃣ Diagramas polares finales
+# Diagramas polares finales
 def plot_polar_final(theta_final, titulo):
     plt.figure(figsize=(5,5))
     ax = plt.subplot(111, polar=True)
@@ -147,7 +146,7 @@ plot_polar_final(thetas_kur[-1], "Fases finales — Kuramoto")
 plot_polar_final(thetas_win[-1], "Fases finales — Winfree")
 
 # ----------------------------
-# 4️⃣ Barrido de K: transición de sincronización
+# Barrido de K: transición de sincronización
 # ----------------------------
 def sweep_K(model_func, theta0, omega, K_values):
     r_final = []
@@ -172,4 +171,4 @@ plt.legend(); plt.grid(True); plt.show()
 
 print(f"r_final (Kuramoto) = {r_kur[-1]:.3f}")
 print(f"r_final (Winfree)  = {r_win[-1]:.3f}")
-print("Simulación completada con éxito ✅")
+print("Simulación completada con éxito")
