@@ -37,7 +37,7 @@ Observa la **velocidad de crecimiento de \( r(t) \)** y su **valor final**, ya q
 
 - Indican si las frecuencias convergen a un **valor común (entrainment)** o quedan **distribuidas**.  
 
-> En la simulación de ejemplo, **ambos modelos alcanzan sincronía** ( r → 1 \).  
+> En un ejemplo, **ambos modelos alcanzan sincronía** ( r → 1 \).  
 > Dependiendo de los parámetros **K**, **N**, y la dispersión de (ω), pueden observarse transiciones **sincrónico ↔ incoherente**.
 
 ---
