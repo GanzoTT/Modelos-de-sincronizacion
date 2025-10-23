@@ -11,7 +11,7 @@ Ambos son paradigmas en el estudio del acoplamiento de osciladores y permiten co
 
 ### 🔹 **r(t): parámetro de sincronía**
 
-\( r \in [0,1] \)
+\( r ∈ [0,1] \)
 
 - Valores cercanos a **1 → alta sincronía** (fases agrupadas).  
 - Valores cercanos a **0 → fases distribuidas aleatoriamente**.  
