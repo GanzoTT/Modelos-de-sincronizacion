@@ -7,7 +7,7 @@ Ambos son paradigmas en el estudio del acoplamiento de osciladores y permiten co
 
 ---
 
-## 2) Interpretación de las figuras (qué mirar)
+## 1) Interpretación de las figuras (qué mirar)
 
 ### 🔹 **r(t): parámetro de sincronía**
 
@@ -42,7 +42,7 @@ Observa la **velocidad de crecimiento de \( r(t) \)** y su **valor final**, ya q
 
 ---
 
-## 3) Comparación funcional Kuramoto vs Winfree
+## 2) Comparación funcional Kuramoto vs Winfree
 
 ###  **Mecánica de acoplamiento**
 
@@ -88,7 +88,7 @@ Observa la **velocidad de crecimiento de \( r(t) \)** y su **valor final**, ya q
 
 ---
 
-##  4) Aplicación: sincronización en redes eléctricas (generadores síncronos)
+##  3) Aplicación: sincronización en redes eléctricas (generadores síncronos)
 
 ### **Contexto**
 
