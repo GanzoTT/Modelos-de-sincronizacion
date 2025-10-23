@@ -11,7 +11,7 @@ Ambos son paradigmas en el estudio del acoplamiento de osciladores y permiten co
 
 ## 1) Interpretación de las figuras (qué mirar)
 
-### 🔹 **r(t): parámetro de sincronía**
+### **r(t): parámetro de sincronía**
 
 \( r ∈ [0,1] \)
 
@@ -22,20 +22,20 @@ Observa la **velocidad de crecimiento de r(t)** y su **valor final**, ya que ind
 
 ---
 
-### 🔹 **Raster (fases vs tiempo)**
+### **Raster (fases vs tiempo)**
 
 - Líneas con pendiente constante y **agrupamientos verticales** indican osciladores que han quedado en fase y comparten frecuencia.  
 - Si las columnas se alinean verticalmente o las fases se superponen → hay **bloqueo de fase**.
 
 ---
 
-### 🔹 **Diagramas polares finales**
+### **Diagramas polares finales**
 
 - Muestran directamente si las fases se **agrupan (clúster visible)** o permanecen **distribuidas aleatoriamente**.
 
 ---
 
-### 🔹 **Histogramas de frecuencias estimadas**
+### **Histogramas de frecuencias estimadas**
 
 - Indican si las frecuencias convergen a un **valor común (entrainment)** o quedan **distribuidas**.  
 
@@ -129,9 +129,9 @@ Aunque las redes eléctricas reales más complejas incluyen **(inercia, controla
 
 ### **Otras aplicaciones**
 
-- 🧠 **Neurociencia:** sincronía neuronal y patologías como Parkinson.  
-- ⏰ **Ritmos biológicos:** circadianos, cardíacos y hormonales.  
-- 🔦 **Sistemas naturales:** sincronía en luciérnagas, bacterias y células.  
-- 🤖 **Tecnología:** sincronización de relojes distribuidos, redes de sensores y robótica colaborativa.
+- **Neurociencia:** sincronía neuronal y patologías como Parkinson.  
+- **Ritmos biológicos:** circadianos, cardíacos y hormonales.  
+- **Sistemas naturales:** sincronía en luciérnagas, bacterias y células.  
+- **Tecnología:** sincronización de relojes distribuidos, redes de sensores y robótica colaborativa.
 
 ---
