@@ -88,7 +88,7 @@ Observa la **velocidad de crecimiento de r(t)** y su **valor final**, ya que ind
 
 <img width="388" height="361" alt="image" src="https://github.com/user-attachments/assets/c4edc3ed-36d8-4631-a597-21a2c98d4a53" />
 
-<img width="562" height="352" alt="image" src="https://github.com/user-attachments/assets/679d2972-382c-4027-a551-f3fdcd3ded03" />
+<img width="577" height="358" alt="image" src="https://github.com/user-attachments/assets/3436d4e1-7564-4025-bc9b-33900d64de7a" />
 
 ---
 
