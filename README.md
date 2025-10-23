@@ -78,6 +78,18 @@ Observa la **velocidad de crecimiento de r(t)** y su **valor final**, ya que ind
 | **Diagrama polar** | Distribución final de fases | Clúster compacto si hay coherencia |
 | **Histograma de frecuencias** | Frecuencias finales | Pico único si hay entrainment |
 
+<img width="625" height="307" alt="image" src="https://github.com/user-attachments/assets/3bdd477a-e5e1-4d01-a919-4072b6521f65" />
+
+<img width="678" height="371" alt="image" src="https://github.com/user-attachments/assets/9fd9aa21-6a18-4ff4-aca1-f9efb39df5bb" />
+
+<img width="676" height="372" alt="image" src="https://github.com/user-attachments/assets/ba2da793-a0f1-4a88-a3bd-746711f3d391" />
+
+<img width="385" height="366" alt="image" src="https://github.com/user-attachments/assets/fc8a2c44-56f3-4361-8b18-d538be74db10" />
+
+<img width="388" height="361" alt="image" src="https://github.com/user-attachments/assets/c4edc3ed-36d8-4631-a597-21a2c98d4a53" />
+
+<img width="562" height="352" alt="image" src="https://github.com/user-attachments/assets/679d2972-382c-4027-a551-f3fdcd3ded03" />
+
 ---
 
 ###  **Resumen funcional**
